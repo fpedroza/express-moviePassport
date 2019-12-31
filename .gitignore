@@ -1,3 +1,5 @@
+config-override.js
+
 # Logs
 logs
 *.log
